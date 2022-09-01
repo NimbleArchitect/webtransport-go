@@ -74,7 +74,7 @@ import (
 	"net/http"
 	"net/url"
 
-	h3 "github.com/adriancable/webtransport-go/internal"
+	h3 "github.com/NimbleArchitect/webtransport-go/internal"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/lucas-clemente/quic-go/http3"
 	"github.com/lucas-clemente/quic-go/quicvarint"

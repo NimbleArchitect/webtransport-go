@@ -1,4 +1,4 @@
-module github.com/adriancable/webtransport-go
+module github.com/NimbleArchitect/webtransport-go
 
 go 1.19
 
